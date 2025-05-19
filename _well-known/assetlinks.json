@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uz.finlog.costaccounting",
+      "sha256_cert_fingerprints": [
+        "64:8D:30:42:7C:AF:1F:12:59:76:6A:B7:6B:A2:72:AD:A0:90:98:29:28:17:00:E2:DE:A1:0B:D3:64:7F:EF:E3"
+      ]
+    }
+  }
+]
